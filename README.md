@@ -1,1 +1,1 @@
-gokulpvtr.github.io/webdesigning
+gokulpvtr.github.io/webdesigning/
